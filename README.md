@@ -38,4 +38,4 @@ This was created as **Day 3 Project 03** in my coding journey.
 **Bryan Dave**  
 Self-taught aspiring software engineer  
 Zero-to-Hero Coding Quest 🔥  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@BryanDave-softdev](https://github.com/BryanDave-softdev)

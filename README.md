@@ -39,3 +39,9 @@ This was created as **Day 3 Project 03** in my coding journey.
 Self-taught aspiring software engineer  
 Zero-to-Hero Coding Quest 🔥  
 GitHub: [@BryanDave-softdev](https://github.com/BryanDave-softdev)
+
+
+## Screenshot
+
+![Birthday Quiz App](birthday-quiz-screenshot.png)
+

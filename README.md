@@ -43,5 +43,8 @@ GitHub: [@BryanDave-softdev](https://github.com/BryanDave-softdev)
 
 ## Screenshot
 
-guessing-game-screenshot.PNG
+## Screenshot
+
+![Guessing Game Screenshot](guessing-game-screenshot.PNG)
+
 

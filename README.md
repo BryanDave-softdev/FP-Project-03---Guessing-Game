@@ -43,5 +43,5 @@ GitHub: [@BryanDave-softdev](https://github.com/BryanDave-softdev)
 
 ## Screenshot
 
-![Birthday Quiz App](birthday-quiz-screenshot.png)
+guessing-game-screenshot.PNG
 
